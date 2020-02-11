@@ -1,0 +1,33 @@
+D:\Google 雲端硬碟\Project\公假單製作\bin\Debug\公假單製作.exe.config
+D:\Google 雲端硬碟\Project\公假單製作\bin\Debug\公假單製作.exe
+D:\Google 雲端硬碟\Project\公假單製作\bin\Debug\公假單製作.pdb
+D:\Google 雲端硬碟\Project\公假單製作\obj\Debug\公假單製作.csproj.ResolveComReference.cache
+D:\Google 雲端硬碟\Project\公假單製作\obj\Debug\公假單製作.Form1.resources
+D:\Google 雲端硬碟\Project\公假單製作\obj\Debug\公假單製作.Properties.Resources.resources
+D:\Google 雲端硬碟\Project\公假單製作\obj\Debug\公假單製作.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\Project\公假單製作\obj\Debug\公假單製作.exe
+D:\Google 雲端硬碟\Project\公假單製作\obj\Debug\公假單製作.pdb
+C:\Users\User\Desktop\公假單製作\bin\Debug\公假單製作.exe.config
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.exe
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.pdb
+C:\Users\User\Desktop\公假單製作\bin\Debug\公假單製作.exe
+C:\Users\User\Desktop\公假單製作\bin\Debug\公假單製作.pdb
+C:\Users\User\Desktop\公假單製作\bin\Debug\NPOI.xml
+C:\Users\User\Desktop\公假單製作\bin\Debug\NPOI.OOXML.xml
+C:\Users\User\Desktop\公假單製作\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.Form1.resources
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.Properties.Resources.resources
+C:\Users\User\Desktop\公假單製作\obj\Debug\公假單製作.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\bin\Debug\公假單製作.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\bin\Debug\公假單製作.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\bin\Debug\公假單製作.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.csprojResolveAssemblyReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.csproj.ResolveComReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.Form1.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\公假單製作\obj\Debug\公假單製作.pdb
